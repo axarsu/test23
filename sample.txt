@@ -1,0 +1,429 @@
+
+YOUR CARD PROCESSING STATEMENT
+
+LA UNICA                                                                                          Page 1 of 7              THIS IS NOT A BILL
+SAM SMITH                                                                                         Statement Period          01/01/19 - 01/31/19
+123 ANYSTREET RD                                                                                  Merchant Number             
+NEW YORK, NY 10001                                                                                Customer Service            Website - 
+                                                                                                                              Phone - 
+
+SUMMARY            An overview of account activity for the statement period.
+ Page     1     Total Amount Submitted                                                           $27,887.01
+ Page     3     Chargebacks/Reversals                                                                           0.00
+ Page     3     Adjustments                                                                                     0.00
+ Page     3     Fees                                                                                -$765.47
+Total Amount Processed                                                                        $27,121.54
+
+IMPORTANT INFORMATION ABOUT YOUR ACCOUNT
+
+SUMMARY BY DAY
+    Date                       Submitted                          Chargebacks/                                                                                           Amount
+Submitted                       Amount                              Reversals                   Adjustments                       Fees                                Processed
+01/03/19                                  $628.87                                  0.00                          0.00                          0.00                      $628.87
+01/04/19                                  $828.01                                  0.00                          0.00                          0.00                      $828.01
+01/05/19                                 $1,655.54                                 0.00                          0.00                          0.00                    $1,655.54
+01/06/19                                 $1,677.88                                 0.00                          0.00                          0.00                    $1,677.88
+01/07/19                                 $1,324.89                                 0.00                          0.00                          0.00                    $1,324.89
+01/09/19                                  $925.64                                  0.00                          0.00                          0.00                      $925.64
+01/10/19                                  $747.60                                  0.00                          0.00                          0.00                      $747.60
+01/11/19                                 $1,326.19                                 0.00                          0.00                          0.00                    $1,326.19
+01/12/19                                 $1,326.27                                 0.00                          0.00                          0.00                    $1,326.27
+01/13/19                                 $1,402.40                                 0.00                          0.00                          0.00                    $1,402.40
+01/14/19                                 $1,464.82                                 0.00                          0.00                          0.00                    $1,464.82
+01/16/19                                 $1,147.25                                 0.00                          0.00                          0.00                    $1,147.25
+01/17/19                                  $781.68                                  0.00                          0.00                          0.00                      $781.68
+01/18/19                                  $839.94                                  0.00                          0.00                          0.00                      $839.94
+01/19/19                                 $1,785.99                                 0.00                          0.00                          0.00                    $1,785.99
+01/20/19                                 $1,303.70                                 0.00                          0.00                          0.00                    $1,303.70
+01/21/19                                 $1,228.03                                 0.00                          0.00                          0.00                    $1,228.03
+01/23/19                                  $723.33                                  0.00                          0.00                          0.00                      $723.33
+01/24/19                                 $1,227.53                                 0.00                          0.00                          0.00                    $1,227.53
+01/25/19                                  $712.41                                  0.00                          0.00                          0.00                      $712.41
+
+
+YOUR CARD PROCESSING STATEMENT
+
+Merchant Number              		                                                                   Page 2 of 7
+Customer Service            Website -                                                                      Statement Period                                 01/01/19 - 01/31/19
+                            Phone - 
+
+SUMMARY BY DAY
+    Date                       Submitted                           Chargebacks/                                                                                           Amount
+ Submitted                       Amount                              Reversals                   Adjustments                       Fees                                Processed
+ 01/26/19                                 $1,876.35                                 0.00                          0.00                          0.00                    $1,876.35
+ 01/28/19                                 $1,464.95                                 0.00                          0.00                          0.00                    $1,464.95
+ 01/29/19                                           $70.00                          0.00                          0.00                          0.00                       $70.00
+ 01/30/19                                  $527.21                                  0.00                          0.00                          0.00                      $527.21
+ 01/31/19                                  $890.53                                  0.00                          0.00                          0.00                      $890.53
+ Month End Charge                                     0.00                          0.00                          0.00                     -$765.47                      -$765.47
+
+ Total                                  $27,887.01                                  0.00                          0.00                     -$765.47                    $27,121.54
+
+SUMMARY BY CARD TYPE
+                                                         Total Gross Sales You Submitted                        Refunds                        Total Amount You Submitted
+
+        Card Type               AverageTicket             Items               Amount                Items               Amount                 Items               Amount
+ Mastercard                           $33.09                95                       $3,143.14         0                            0.00        95                       $3,143.14
+ VISA                                 $33.45               273                       $9,133.01         0                            0.00        273                      $9,133.01
+ Discover                             $27.46                35                        $960.98          0                            0.00        35                        $960.98
+ AMEX ACQ                             $36.67                17                        $623.36          0                            0.00        17                        $623.36
+ Debit/Atm                            $31.24               449                     $14,026.52          0                            0.00        449                    $14,026.52
+
+ Total                                                     869                     $27,887.01          0                            0.00        869                    $27,887.01
+
+SUMMARY BY BATCH
+                                                                 Total Gross Sales You Submitted                   Refunds                     Total Amount You Submitted
+
+       Batch         Submit Date          AverageTicket             Items                   Amount         Items                  Amount        Items                   Amount
+ 131274030432          01/03/19                         $23.21        13                     $301.75         0                       0.00        13                      $301.75
+ 131274030433          01/03/19                         $25.16        13                     $327.12         0                       0.00        13                      $327.12
+ 131274040434          01/04/19                         $29.96        12                     $359.50         0                       0.00        12                      $359.50
+ 131274040435          01/04/19                         $36.04        13                     $468.51         0                       0.00        13                      $468.51
+ 131274050436          01/05/19                         $30.02        29                     $870.62         0                       0.00        29                      $870.62
+ 131274050437          01/05/19                         $30.19        26                     $784.92         0                       0.00        26                      $784.92
+ 131274060438          01/06/19                         $45.39        27                   $1,225.44         0                       0.00        27                    $1,225.44
+ 131274060439          01/06/19                         $34.80        13                     $452.44         0                       0.00        13                      $452.44
+ 131274070440          01/07/19                         $38.57        20                     $771.30         0                       0.00        20                      $771.30
+ 131274070441          01/07/19                         $32.56        17                     $553.59         0                       0.00        17                      $553.59
+ 131274090442          01/09/19                         $34.86        14                     $488.05         0                       0.00        14                      $488.05
+ 131274090443          01/09/19                         $27.35        16                     $437.59         0                       0.00        16                      $437.59
+ 131274100444          01/10/19                         $23.78        13                     $309.14         0                       0.00        13                      $309.14
+ 131274100445          01/10/19                         $24.36        18                     $438.46         0                       0.00        18                      $438.46
+ 131274110446          01/11/19                         $34.09        21                     $715.86         0                       0.00        21                      $715.86
+ 131274110447          01/11/19                         $27.74        22                     $610.33         0                       0.00        22                      $610.33
+ 131274120448          01/12/19                         $25.15        18                     $452.65         0                       0.00        18                      $452.65
+ 131274120449          01/12/19                         $37.98        23                     $873.62         0                       0.00        23                      $873.62
+ 131274130450          01/13/19                         $35.66        21                     $748.90         0                       0.00        21                      $748.90
+ 131274130451          01/13/19                         $34.39        19                     $653.50         0                       0.00        19                      $653.50
+ 131274140452          01/14/19                         $41.04        12                     $492.45         0                       0.00        12                      $492.45
+ 131274140453          01/14/19                         $38.89        25                     $972.37         0                       0.00        25                      $972.37
+ 131274160454          01/16/19                         $26.99        18                     $485.89         0                       0.00        18                      $485.89
+ 131274160455          01/16/19                         $34.81        19                     $661.36         0                       0.00        19                      $661.36
+ 131274170456          01/17/19                         $31.28        15                     $469.21         0                       0.00        15                      $469.21
+ 131274170457          01/17/19                         $20.83        15                     $312.47         0                       0.00        15                      $312.47
+ 131274180458          01/18/19                         $31.61        17                     $537.34         0                       0.00        17                      $537.34
+ 131274180459          01/18/19                         $20.17        15                     $302.60         0                       0.00        15                      $302.60
+ 131274190460          01/19/19                         $31.74        25                     $793.39         0                       0.00        25                      $793.39
+
+
+YOUR CARD PROCESSING STATEMENT
+
+Merchant Number                                                                                        Page 3 of 7
+Customer Service              Website -                                                                Statement Period                                       01/01/19 - 01/31/19
+                              Phone - 
+
+SUMMARY BY BATCH
+                                                                 Total Gross Sales You Submitted                    Refunds                       Total Amount You Submitted
+
+       Batch         Submit Date         AverageTicket              Items                 Amount       Items                     Amount            Items                  Amount
+ 131274190461          01/19/19                         $38.18        26                   $992.60       0                           0.00           26                    $992.60
+ 131274200462          01/20/19                         $33.00        20                   $660.03       0                           0.00           20                    $660.03
+ 131274200463          01/20/19                         $33.88        19                   $643.67       0                           0.00           19                    $643.67
+ 131274210464          01/21/19                         $46.68        13                   $606.88       0                           0.00           13                    $606.88
+ 131274210465          01/21/19                         $36.54        17                   $621.15       0                           0.00           17                    $621.15
+ 131274230466          01/23/19                         $22.23        14                   $311.24       0                           0.00           14                    $311.24
+ 131274230467          01/23/19                         $27.47        15                   $412.09       0                           0.00           15                    $412.09
+ 131274240468          01/24/19                         $32.04        19                   $608.80       0                           0.00           19                    $608.80
+ 131274240469          01/24/19                         $26.90        23                   $618.73       0                           0.00           23                    $618.73
+ 131274250470          01/25/19                         $32.04        12                   $384.46       0                           0.00           12                    $384.46
+ 131274250471          01/25/19                         $32.80        10                   $327.95       0                           0.00           10                    $327.95
+ 131274260472          01/26/19                         $31.31        29                   $907.89       0                           0.00           29                    $907.89
+ 131274260473          01/26/19                         $29.35        33                   $968.46       0                           0.00           33                    $968.46
+ 131274280474          01/28/19                         $33.34        21                   $700.10       0                           0.00           21                    $700.10
+ 131274280475          01/28/19                         $28.33        27                   $764.85       0                           0.00           27                    $764.85
+ 131274290476          01/29/19                         $70.00        1                     $70.00       0                           0.00            1                      $70.00
+ 131274300477          01/30/19                         $41.17        6                    $247.00       0                           0.00            6                    $247.00
+ 131274300478          01/30/19                         $40.03        7                    $280.21       0                           0.00            7                    $280.21
+ 131274310479          01/31/19                         $37.51        11                   $412.60       0                           0.00           11                    $412.60
+ 131274310480          01/31/19                         $28.11        17                   $477.93       0                           0.00           17                    $477.93
+
+ Total                                                               869                $27,887.01       0                           0.00           869                 $27,887.01
+
+CHARGEBACKS/REVERSALS                                   Transactions that are challenged or disputed by a cardholder or card-issuing bank.
+                                                                                                                                   Card Number
+ Date             Reference No.                     Description                                                                    (Last 4 Digits)                        Amount
+
+                                                                   No Chargebacks/Reversals for this Statement Period
+
+ Total                                                                                                                                                                        0.00
+
+ADJUSTMENTS                 The amounts credited to, or deducted from, your account to resolve processing and billing discrepancies.
+
+ Date                Description                                                                                                                                          Amount
+
+                                                                         No Adjustments for this Statement Period
+
+ Total                                                                                                                                                                        0.00
+
+FEES           Amount charged to authorize, process and settle card transactions, along with transaction-based and/or fixed amounts charged for specific card processingservices.
+ TRANSACTION FEES                                                                                                                    Type                                 Amount
+
+        MASTERCARD
+             MASTERCARD ASSESSMENT FEE .0013 TIMES $3143.14                                                                   Interchange charges                           -$4.09
+             MC-COM T & E I(US) FLEET                                                                                         Interchange charges                           -$1.37
+             MC-ENHANCED MERIT III BASE                                                                                       Interchange charges                           -$3.11
+             MC-WORLD ELITE - OTHER                                                                                           Interchange charges                          -$13.20
+             MC-BUS LEVEL 2 T&E I                                                                                             Interchange charges                           -$0.40
+             MC-HIGH VAL T & E                                                                                                Interchange charges                           -$2.07
+             MC-SMALL TICKET (DB)                                                                                             Interchange charges                           -$0.15
+             MC-REG INCENT FRF ADJ POS (DB)                                                                                   Interchange charges                           -$0.49
+             MC-BUS LEVEL 3 T&E I                                                                                             Interchange charges                           -$1.29
+
+
+YOUR CARD PROCESSING STATEMENT
+
+Merchant Number                                                                                 Page 4 of 7
+Customer Service             Website -                                                          Statement Period                                    01/01/19 - 01/31/19
+                             Phone - 
+
+FEES          Amount charged to authorize, process and settle card transactions, along with transaction-based and/or fixed amounts charged for specific card processingservices.
+            MC-WORLDCARD RESTAURANT                                                                                      Interchange charges                      -$13.85
+            MC-CORP T & E I(US) BUS                                                                                      Interchange charges                            -$0.85
+            MC-CORP T & E I(US) CORP                                                                                     Interchange charges                            -$3.18
+            MC-WORLD ELITE RESTAURANT                                                                                    Interchange charges                      -$22.02
+            MC-HIGH VAL RESTAURANT                                                                                       Interchange charges                            -$2.16
+            MC-DOMESTIC MERIT III                                                                                        Interchange charges                            -$3.74
+            MC-RESTAURANT (DB)                                                                                           Interchange charges                            -$2.22
+            MC-DOMESTIC MERIT III (DB)                                                                                   Interchange charges                            -$2.03
+            MASTERCARD SALES DISCOUNT .006 DISC RATE TIMES $2743.61                                                        Service charges                        -$16.46
+            MC LICENSE VOLUME FEE .000061 DISC RATE TIMES $3143.14                                                         Service charges                              -$0.19
+            MASTERCARD DEBIT SALES DISC .006 DISC RATE TIMES $399.53                                                       Service charges                              -$2.40
+            MASTERCARD AUTH FEE 96 TRANSACTIONS AT .05                                                                          Fees                                    -$4.80
+            MC NETWORK ACCESS AUTH FEE 96 TRANSACTIONS AT .0195                                                                 Fees                                    -$1.87
+        VISA
+            VI-US REGULATED COMM (DB)                                                                                    Interchange charges                            -$0.51
+            VI-CPS SMALL TICKET (PP)                                                                                     Interchange charges                            -$0.11
+            VISA ASSESSMENT FEE CR .0014 TIMES $6964.33                                                                  Interchange charges                            -$9.75
+            VISA ASSESSMENT FEE DB .0013 TIMES $2168.68                                                                  Interchange charges                            -$2.82
+            VI-CPS/RESTAURANT (DB)                                                                                       Interchange charges                            -$7.77
+            VI-CORPORATE TRAVEL SVC                                                                                      Interchange charges                            -$2.73
+            VI-CPS/RESTAURANT CREDIT                                                                                     Interchange charges                            -$7.23
+            VI-PURCHASING TRAVEL SVC                                                                                     Interchange charges                            -$1.23
+            VI-ELECTRONIC (US ACQ)                                                                                       Interchange charges                            -$0.46
+            VI-INTER PREM LAC ISS US ACQ                                                                                 Interchange charges                            -$3.13
+            VI-SIGNATURE PREFERRED CRP ELC                                                                               Interchange charges                      -$60.70
+            VI-SIGNATURE CARD ELECTRONIC                                                                                 Interchange charges                      -$52.58
+            VI-BUSINESS CARD TR2 ELEC T&E                                                                                Interchange charges                            -$9.21
+            VI-BUSINESS CARD TR4 ELEC                                                                                    Interchange charges                            -$8.97
+            VI-BUSINESS CARD CP (DB)                                                                                     Interchange charges                            -$0.54
+            VI-CPS/RESTAURANT (PP)                                                                                       Interchange charges                            -$0.73
+            VI-CPS/SMALL TICKET                                                                                          Interchange charges                            -$3.62
+            VI-BUSINESS CARD TR1 ELEC T&E                                                                                Interchange charges                            -$6.32
+            VI-BUSINESS CARD TR3 ELEC T&E                                                                                Interchange charges                            -$7.46
+            VI-CPS SMALL TICKET (DB)                                                                                     Interchange charges                            -$1.12
+            VI-US REGULATED (DB)                                                                                         Interchange charges                            -$7.89
+            VI-CPS/REWARDS 2                                                                                             Interchange charges                      -$16.87
+            VI-US HNW CONSUMER ELECT                                                                                     Interchange charges                            -$0.81
+            VI-US CPS/SMALL TCKT REG (DB)                                                                                Interchange charges                            -$1.58
+            VISA DEBIT SALES DISCOUNT .006 DISC RATE TIMES $2168.68                                                        Service charges                        -$13.01
+            VISA SALES DISCOUNT .006 DISC RATE TIMES $6964.33                                                              Service charges                        -$41.79
+            VISA AUTH FEE 280 TRANSACTIONS AT .05                                                                               Fees                              -$14.00
+            ACQUIRER PROCESSOR FEE DB/PP 65 TRANSACTIONS AT .0155                                                               Fees                                    -$1.01
+            ACQUIRER PROCESSOR FEE CREDIT 212 TRANSACTIONS AT .0195                                                             Fees                                    -$4.13
+        DISCOVER
+            DSCVR PSL REST PR                                                                                            Interchange charges                            -$4.01
+            DSCVR PSL REST PP                                                                                            Interchange charges                            -$0.86
+            DISCOVER ASSESSMENT FEE .0013 TIMES $960.98                                                                  Interchange charges                            -$1.25
+            DSCVR COMML ELECT OTHER                                                                                      Interchange charges                            -$4.06
+            DSCVR PSL EXP SVC PR                                                                                         Interchange charges                            -$0.62
+            DSCVR PSL EXP SVC RW                                                                                         Interchange charges                            -$1.62
+            DSCVR PSL REST RW                                                                                            Interchange charges                      -$10.91
+            DISCOVER SALES DISCOUNT .006 DISC RATE TIMES $960.98                                                           Service charges                              -$5.77
+            DISCOVER DATA USAGE FEE 35 TRANSACTIONS AT .0195                                                               Service charges                              -$0.68
+            DISCOVER AUTH FEE 35 TRANSACTIONS AT .05                                                                            Fees                                    -$1.75
+            NETWORK AUTHORIZATION FEE 35 TRANSACTIONS AT .0025                                                                  Fees                                    -$0.09
+        AMERICAN EXPRESS
+            AMEX AUTH FEE 17 TRANSACTIONS AT .05                                                                                Fees                                    -$0.85
+
+
+YOUR CARD PROCESSING STATEMENT
+
+Merchant Number                                                                                      Page 5 of 7
+Customer Service             Website -                                                               Statement Period                               01/01/19 - 01/31/19
+                             Phone - 
+
+FEES          Amount charged to authorize, process and settle card transactions, along with transaction-based and/or fixed amounts charged for specific card processingservices.
+        AMEX ACQ
+            AMEX NETWORK FEE .0015 TIMES $623.36                                                                         Interchange charges                            -$0.94
+            AXP PREPAID BASE T1                                                                                          Interchange charges                            -$0.90
+            AXP RESTAURANT BASE T1                                                                                       Interchange charges                            -$1.73
+            AXP RESTAURANT BASE T2                                                                                       Interchange charges                      -$13.35
+        DEBIT CARD
+            DEBIT SALES DISCOUNT .001 DISC RATE TIMES $14026.52                                                            Service charges                        -$14.03
+        Other
+            AMEX SALES DISCOUNT .006 DISC RATE TIMES $623.36                                                               Service charges                              -$3.74
+            MASTERCARD KILOBYTE TRANS FEE 69 KILOBYTES AT .0035                                                            Service charges                              -$0.24
+            VI BASE II SYSTEM FILE FEE 273 TRANSACTIONS AT .0018                                                           Service charges                              -$0.49
+            BATCH SETTLEMENT FEE 49 TRANSACTIONS AT .05                                                                         Fees                                    -$2.45
+            TOTAL TRANSACTION FEES                                                                                                                               -$460.36
+
+ DEBIT NETWORK FEES                                                                                                             Type                             Amount
+            PULSE                                                                                                        Interchange charges                            -$0.56
+            STAR SE PREFER REG                                                                                           Interchange charges                            -$0.30
+            STAR NE REG                                                                                                  Interchange charges                      -$20.66
+            STAR W PREFER                                                                                                Interchange charges                            -$4.52
+            PAVD REG                                                                                                     Interchange charges                            -$1.40
+            STAR NE PREFER REG                                                                                           Interchange charges                      -$17.79
+            STAR NE                                                                                                      Interchange charges                            -$2.12
+            ACCEL                                                                                                        Interchange charges                            -$0.53
+            ACCEL ADVANTAGE                                                                                              Interchange charges                            -$1.27
+            INTERLINK                                                                                                    Interchange charges                            -$0.84
+            NYCE PREMIER                                                                                                 Interchange charges                      -$13.35
+            INTERLINK REG DECLINE                                                                                        Interchange charges                            -$0.04
+            NYCE PREMIER DECLINE                                                                                         Interchange charges                            -$0.10
+            STAR SE PREFER                                                                                               Interchange charges                            -$6.78
+            INTERLINK DECLINE                                                                                            Interchange charges                            -$0.04
+            STAR NE PREFER                                                                                               Interchange charges                      -$49.53
+            STAR W                                                                                                       Interchange charges                            -$1.07
+            MAESTRO REG                                                                                                  Interchange charges                      -$18.98
+            MAESTRO DECLINE                                                                                              Interchange charges                            -$0.03
+            STAR SE                                                                                                      Interchange charges                            -$0.23
+            STAR NE REG DECLINE                                                                                          Interchange charges                            -$0.03
+            PAVD                                                                                                         Interchange charges                            -$1.66
+            MAESTRO REG DECLINE                                                                                          Interchange charges                            -$0.03
+            MAESTRO                                                                                                      Interchange charges                            -$5.58
+            INTERLINK REG                                                                                                Interchange charges                      -$18.77
+            DEBIT/ATM CARD TRANSACTION FEE 449 TRANSACTIONS AT .15                                                         Service charges                        -$67.35
+            ONLINE DEBIT DENIAL 8 TRANSACTIONS AT .15                                                                           Fees                                    -$1.20
+            DEBIT FEE ADJ/REV     Non-Receipt of PCI Validation                                                                 Fees                              -$19.95
+            TOTAL DEBIT NETWORK FEES                                                                                                                             -$254.71
+
+ ACCOUNT FEES                                                                                                                   Type                             Amount
+            VISA INTL SERVICE FEE - BASE                   2 TRANS TOTALING       $168.55                                       Fees                                    -$1.35
+            VISA NETWORK FEE CP 1B-01                                                                                           Fees                                    -$2.00
+            MONTHLY STATEMENT FEE                                                                                               Fees                              -$10.00
+            REGULATORY PRODUCT FEE                                                                                              Fees                                    -$3.50
+            MC MONTHLY LOCATION FEE                                                                                             Fees                                    -$1.25
+            CLOVER SERVICES FEE                                                                                                 Fees                              -$27.30
+            TRANSARMOR MONTHLY FEE                                                                                              Fees                                    -$5.00
+            TOTAL ACCOUNT FEES                                                                                                                                    -$50.40
+
+ TOTAL                                                                                                                                                           -$765.47
+
+Total Interchange Charges                                                                                                                                 -$496.82
+
+
+YOUR CARD PROCESSING STATEMENT
+
+Merchant Number                                                                                          Page 6 of 7
+Customer Service             Website -                                                                   Statement Period                                      01/01/19 - 01/31/19
+                             Phone - 
+
+FEES          Amount charged to authorize, process and settle card transactions, along with transaction-based and/or fixed amounts charged for specific card processingservices.
+Total Service Charges                                                                                                                                                 -$166.15
+
+Total Fees                                                                                                                                                            -$102.50
+
+Total (Service Charges, Interchange Charges, and Fees)                                                                                                                -$765.47
+
+INTERCHANGE                                               These are the variable fees charged by Card Organizations for processing transactions.
+                                                                                                                    Interchange Cost                                           Total
+                                                                     Sales   % Of     Number of       % of Total                Cost Per                                Interchange
+ Product/Description                                                 Total   Sales  Transactions   Transactions     Rate    Transaction              Sub Total              Charges
+
+ MASTERCARD
+  MC-SMALL TICKET (DB)                                               $7.41     0%               1            1%    0.0155         $0.040                -$0.15
+  MC-DOMESTIC MERIT III (DB)                                       $150.32     5%               3            3%    0.0105         $0.150                -$2.03
+  MC-HIGH VAL T & E                                                 $71.50     2%               1            1%    0.0275         $0.100                -$2.07
+  MC-HIGH VAL RESTAURANT                                            $84.48     3%               3            3%    0.0220         $0.100                -$2.16
+  MC-ENHANCED MERIT III BASE                                       $145.21     5%               6            6%    0.0173         $0.100                -$3.11
+  MC-BUS LEVEL 2 T&E I                                              $14.99     0%               1            1%    0.0266          0.000                -$0.40
+  MC-WORLD ELITE - OTHER                                           $461.97    15%               5            5%    0.0275         $0.100               -$13.20
+  MC-WORLD ELITE RESTAURANT                                        $864.46    28%              30           32%    0.0220         $0.100               -$22.02
+  MC-CORP T & E I(US) CORP                                         $115.61     4%               3            3%    0.0275          0.000                -$3.18
+  MC-DOMESTIC MERIT III                                            $192.44     6%               7            7%    0.0158         $0.100                -$3.74
+  MC-WORLDCARD RESTAURANT                                          $661.57    21%              24           25%    0.0173         $0.100               -$13.85
+  MC-RESTAURANT (DB)                                               $135.86     4%               6            6%    0.0119         $0.100                -$2.22
+  MC-BUS LEVEL 3 T&E I                                              $47.63     2%               1            1%    0.0271          0.000                -$1.29
+  MC-REG INCENT FRF ADJ POS (DB)                                   $105.94     3%               2            2%    0.0005         $0.220                -$0.49
+  MC-CORP T & E I(US) BUS                                           $33.98     1%               1            1%    0.0250          0.000                -$0.85
+  MC-COM T & E I(US) FLEET                                          $49.77     2%               1            1%    0.0275          0.000                -$1.37
+  MASTERCARD TOTAL                                               $3,143.14                     95                                                                            -$72.13
+
+ VISA
+  VI-SIGNATURE CARD ELECTRONIC                                   $1,998.89    22%              66           24%    0.0230         $0.100               -$52.58
+  VI-ELECTRONIC (US ACQ)                                            $29.66     0%               1            0%    0.0155          0.000                -$0.46
+  VI-CPS/RESTAURANT CREDIT                                         $411.24     5%               9            3%    0.0154         $0.100                -$7.23
+  VI-CPS/REWARDS 2                                                 $757.41     8%              21            8%    0.0195         $0.100               -$16.87
+  VI-CPS/SMALL TICKET                                              $178.18     2%              17            6%    0.0165         $0.040                -$3.62
+  VI-CPS/RESTAURANT (PP)                                            $50.34     1%               1            0%    0.0115         $0.150                -$0.73
+  VI-CPS SMALL TICKET (PP)                                           $4.01     0%               1            0%    0.0160         $0.050                -$0.11
+  VI-BUSINESS CARD CP (DB)                                          $25.94     0%               1            0%    0.0170         $0.100                -$0.54
+  VI-US REGULATED COMM (DB)                                        $142.11     2%               2            1%    0.0005         $0.220                -$0.51
+  VI-US CPS/SMALL TCKT REG (DB)                                     $83.89     1%               7            3%    0.0005         $0.220                -$1.58
+  VI-US REGULATED (DB)                                           $1,262.19    14%              33           12%    0.0005         $0.220                -$7.89
+  VI-BUSINESS CARD TR4 ELEC                                        $270.18     3%               5            2%    0.0295         $0.200                -$8.97
+  VI-US HNW CONSUMER ELECT                                          $29.73     0%               1            0%    0.0240         $0.100                -$0.81
+  VI-PURCHASING TRAVEL SVC                                          $42.80     0%               1            0%    0.0265         $0.100                -$1.23
+  VI-CORPORATE TRAVEL SVC                                           $91.70     1%               3            1%    0.0265         $0.100                -$2.73
+  VI-BUSINESS CARD TR3 ELEC T&E                                    $226.60     2%               5            2%    0.0285         $0.200                -$7.46
+  VI-CPS SMALL TICKET (DB)                                          $56.87     1%               6            2%    0.0155         $0.040                -$1.12
+  VI-CPS/RESTAURANT (DB)                                           $543.33     6%              13            5%    0.0119         $0.100                -$7.77
+  VI-BUSINESS CARD TR2 ELEC T&E                                    $296.68     3%               7            3%    0.0275         $0.150                -$9.21
+  VI-SIGNATURE PREFERRED CRP ELC                                 $2,249.94    25%              67           25%    0.0240         $0.100               -$60.70
+  VI-BUSINESS CARD TR1 ELEC T&E                                    $242.43     3%               5            2%    0.0240         $0.100                -$6.32
+  VI-INTER PREM LAC ISS US ACQ                                     $138.89     2%               1            0%    0.0225          0.000                -$3.13
+  VISA TOTAL                                                     $9,133.01                    273                                                                           -$201.57
+
+ DISCOVER
+  DSCVR PSL REST PR                                                $164.30    17%               4           11%    0.0220         $0.100                -$4.01
+  DSCVR PSL EXP SVC PR                                              $31.97     3%               3            9%    0.0195          0.000                -$0.62
+
+
+YOUR CARD PROCESSING STATEMENT
+
+Merchant Number                                                                                          Page 7 of 7
+Customer Service            Website -                                                                    Statement Period                                      01/01/19 - 01/31/19
+                            Phone - 
+
+INTERCHANGE                                               These are the variable fees charged by Card Organizations for processing transactions.
+                                                                                                                    Interchange Cost                                                                       Total
+                                                                     Sales   % Of     Number of       % of Total                Cost Per                                Interchange
+ Product/Description                                                 Total   Sales  Transactions   Transactions     Rate    Transaction              Sub Total                                      Charges
+  DSCVR PSL REST RW                                                $495.33    52%              15           43%    0.0190         $0.100               -$10.91
+  DSCVR PSL EXP SVC RW                                              $82.91     9%               7           20%    0.0195          0.000                -$1.62
+  DSCVR COMML ELECT OTHER                                          $154.71    16%               5           14%    0.0230         $0.100                -$4.06
+  DSCVR PSL REST PP                                                 $31.76     3%               1            3%    0.0240         $0.100                -$0.86
+  DISCOVER TOTAL                                                   $960.98                     35                                                                                                        -$22.08
+
+ AMEX ACQ
+  AXP RESTAURANT BASE T1                                            $71.94    12%               4           24%    0.0185         $0.100                -$1.73
+  AXP RESTAURANT BASE T2                                           $499.82    80%              11           65%    0.0245         $0.100               -$13.35
+  AXP PREPAID BASE T1                                               $51.60     8%               2           12%    0.0135         $0.100                -$0.90
+  AMEX ACQ TOTAL                                                   $623.36                     17                                                                                                        -$15.98
+
+ DEBIT CARD
+  MAESTRO REG                                                    $2,677.42    19%              72           16%    0.0000          0.000                  0.00
+  INTERLINK                                                         $37.37     0%               3            1%    0.0000          0.000                  0.00
+  STAR NE                                                          $131.58     1%               4            1%    0.0000          0.000                  0.00
+  MAESTRO                                                          $386.73     3%              12            3%    0.0000          0.000                  0.00
+  NYCE PREMIER                                                     $980.30     7%              31            7%    0.0000          0.000                  0.00
+  STAR NE PREFER                                                 $2,794.22    20%              98           22%    0.0000          0.000                  0.00
+  STAR SE PREFER                                                   $389.28     3%              13            3%    0.0000          0.000                  0.00
+  STAR W PREFER                                                    $284.69     2%               7            2%    0.0000          0.000                  0.00
+  INTERLINK REG                                                  $1,936.08    14%              70           16%    0.0000          0.000                  0.00
+  STAR NE REG                                                    $2,123.49    15%              67           15%    0.0000          0.000                  0.00
+  STAR SE PREFER REG                                                $12.71     0%               1            0%    0.0000          0.000                  0.00
+  STAR NE PREFER REG                                             $1,645.14    12%              58           13%    0.0000          0.000                  0.00
+  PAVD REG                                                         $244.99     2%               5            1%    0.0000          0.000                  0.00
+  PAVD                                                             $127.97     1%               1            0%    0.0000          0.000                  0.00
+  STAR SE                                                            $6.35     0%               1            0%    0.0000          0.000                  0.00
+  PULSE                                                             $41.59     0%               1            0%    0.0000          0.000                  0.00
+  ACCEL                                                             $28.08     0%               2            0%    0.0000          0.000                  0.00
+  ACCEL ADVANTAGE                                                  $111.65     1%               1            0%    0.0000          0.000                  0.00
+  STAR W                                                            $66.88     0%               2            0%    0.0000          0.000                  0.00
+  DEBIT CARD TOTAL                                              $14,026.52                    449                                                                                                           0.00
+
+     TOTAL                                                      $27,887.01                    869                                                                                                   -$311.76
+
+                                                                                            Total dollar amount of aggregate reportable payment card transactions funded and third party network
+TOTAL GROSS REPORTABLE SALES BY TIN                                                         transactions, for each participating payee, without regard to any adjustments for credits, cash equivalents,
+                                                                                            discount amount, fees, refunded amounts, or any other amounts per respective tax identification number.
+
+Month                    Description                                                                                                                                                                      Total
+DECEMBER                 GROSS REPORTABLE SALES-TIN##########5120                                                                                                     $33,822.83
+
+                         2018 YTD Gross Reportable Sales                                                                                                             $282,932.01
+
+
+
